@@ -50,7 +50,7 @@
 ## Translations
 
 - [Japanese Kanbun version by @747](https://gitlab.com/yheuhtozr/book-ja-kanbun)
-- [Simplified Chinese version by @ral-hole](https://ral-hole.github.io/wenyan-book-sc/)
+- [Simplified Chinese version by @ral-hole](https://ral-hole.github.io/wenyan-book-sc)
 
 ## Contributing
 
